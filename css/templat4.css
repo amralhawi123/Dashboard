@@ -139,11 +139,11 @@ background-color: #ebe5e552;
 }
 @media (max-width:767px) {
     .sidebar{
-        width: 58px;
+        width: 55px;
         padding: 10px;
     }
     .sidebar h3{
-        font-size: 14px;
+        font-size: 12px;
         margin-bottom: 15px;
     }
     .sidebar h3::after,
